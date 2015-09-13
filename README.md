@@ -17,3 +17,5 @@ The following tests are included:
 How to run : 
 
 Download and open the project in the browser locally. Open index.html and all needed Jasmine libraries are included, and you will see a section below the page showing the test results.
+
+or try it at : http://shanmathi1.github.io/feed-reader-testing/
